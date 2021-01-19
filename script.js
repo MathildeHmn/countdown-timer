@@ -3,6 +3,7 @@ const hoursEl = document.getElementById('hours');
 const minsEl = document.getElementById('mins');
 const secondsEl = document.getElementById('seconds');
 
+// Declaration of the due date
 const christmasEve = '21 Jun 2021';
 
 function countdown() {
