@@ -10,7 +10,7 @@ Une petite application de compte à rebours. Ici, il est fixé à Noël 2020 (es
 Je vais très prochainement repousser la date d'échéance (celle-ci étant passée) et modifier le fond par la même occasion.
 
 -> Mise à jour du 28.12.2020 :
-Date d'échéance désormais fixée au 21.06.2021.
+Date d'échéance désormais fixée au 21.06.2021 (jour de l'été).
 
 __________
 
@@ -24,4 +24,4 @@ A small countdown timer app. Here set for Christmas 2020 (hopefully deconfined b
 I will very soon postpone the due date (it has passed) and modify the content at the same time.
 
 -> Update of 12/28/2020:
-Due date now set at 06.21.2021.
+Due date now set at 06.21.2021 (summer day).
