@@ -6,6 +6,7 @@ const secondsEl = document.getElementById('seconds');
 // Declaration of the due date
 const christmasEve = '21 Jun 2021';
 
+// Function calculation
 function countdown() {
     const christmasDate = new Date(christmasEve);
     const currentDate = new Date();
